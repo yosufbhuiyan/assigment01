@@ -1,0 +1,87 @@
+body{}
+/*Logo Section*/
+.main{
+    width: 1200px;
+    margin: auto;
+}
+.waraper{}
+.logo{
+    float: left;
+    width: 20%;
+}
+.logo h1{
+    /* width: 20%; */
+}
+/*Navber Section*/
+.navber{
+    width: 60%;
+    float: left;
+}
+.navber ul{
+    float: left;
+    text-decoration: none;
+}
+.navber ul li{
+    float: left;
+    list-style-type: none;
+    /* letter-spacing: 5px; */
+}
+.navber ul li a{
+    text-decoration: none;
+    padding: 20 20;
+    padding-inline: 44;
+    padding: 10px 20px;
+}
+/*Button Section*/
+.btn{
+    width: 20%;
+    float: right;
+}
+.btn button{/* padding-top: 10px; */margin-top: 15px;}
+
+/*About Section*/
+.about{}
+.waraper{}
+.collum{}
+.collum img{
+    float: left;
+    /* margin-inline: auto; */
+    padding: 40px;
+    align-content: center;
+    text-align: left;
+}
+.collum h1{
+    padding-top: 50px;
+}
+.collum p{}
+.collum button{}
+
+/*Blog Section*/
+.blog-section{
+    width: 1300px;
+    margin: auto;
+}
+.col{
+    width: 30%;
+    float: left;
+}
+.blog{
+    float: left;
+}
+.blog img{}
+.blog h2{}
+.blog p{}
+.blog button{}
+
+/*Galary Section*/
+.galary{}
+.col2{
+    width: 30%
+    float: left;
+    width: 33%;
+    float: left;
+    /* margin: auto; */
+    margin: 10 5 10 5;
+}
+.pic{}
+.pic img{}
